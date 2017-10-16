@@ -408,7 +408,7 @@ if (in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_
 							  </div>
 
                 <script src="https://checkout.culqi.com/plugins/v2/"></script>
-                <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+                <script src="brayancruces/culqi-woocommerce"></script>
 				<script defer src="<?php echo plugins_url("/assets/js/waitMe.js", __FILE__ ) ?>"></script>
 				<link rel='stylesheet' href='<?php echo plugins_url("/assets/css/waitMe.css", __FILE__ ) ?>' type='text/css' media='all' />
 
